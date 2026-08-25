@@ -1,9 +1,10 @@
 .DS_Store
 Thumbs.db
 db.json
-cache/
-coverage/
+node_modules/
 public/
+.cache/
 .npm
 .npmrc
-```
+npm_cache/
+npm_prefix/
