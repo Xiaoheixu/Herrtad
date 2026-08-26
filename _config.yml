@@ -1,9 +1,9 @@
 # Hexo Configuration
-base: /Herrtad/
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://hexo.io/docs/source.html
 
 # Site
+base: /Herrtad/
 title: Xiaoheixu's Blog
 subtitle: ''
 description: ''
@@ -13,7 +13,7 @@ language: zh-CN
 timezone: ''
 
 # URL
-url: http://xiaoheixu.github.io
+url: http://xiaoheixu.github.io/Herrtad
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
