@@ -1,10 +1,10 @@
 # Hexo Configuration
+base: /Herrtad/
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://hexo.io/docs/source.html
 
 # Site
 title: Xiaoheixu's Blog
-base: /Herrtad/
 subtitle: ''
 description: ''
 keywords:
