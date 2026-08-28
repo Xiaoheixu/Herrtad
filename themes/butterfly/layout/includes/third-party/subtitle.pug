@@ -60,11 +60,7 @@ case source
           .then(response => response.json())
           .then(data => {
             typedJSFn.processSubtitle(data.hitokoto)
-          })
-          .catch(err => {
-            console.error('Failed to get the Hitokoto API:', err)
-            typedJSFn.processSubtitle(!{JSON.stringify(subContent)})
-          })
+          .catch(()=>{})
       }
       typedJSFn.run(subtitleType)
 
